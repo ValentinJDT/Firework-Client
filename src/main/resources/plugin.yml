@@ -1,0 +1,8 @@
+name: FWClient
+version: '${version}'
+main: fr.mrcoq.plugin.fwclient.FWClient
+api-version: '1.21'
+
+commands:
+  show:
+    description: Execute show
